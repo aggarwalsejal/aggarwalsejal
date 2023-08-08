@@ -1,5 +1,5 @@
 ### 👋 Hello! I'm Sejal.
-I'm a full-stack developer from :india: 
+I'm a Software Engineer from :india: 
 
 :globe_with_meridians: [Check out my website](https://aggarwalsejal.com/)
 
