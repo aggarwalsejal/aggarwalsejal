@@ -1,4 +1,5 @@
-### Hi there 👋
+### 👋 Hello! I'm Sejal.
+I'm a full-stack developer from :india: 
 
 <!--
 **aggarwalsejal/aggarwalsejal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
