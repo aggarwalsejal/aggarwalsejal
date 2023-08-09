@@ -31,7 +31,7 @@ I'm a Software Engineer from :india:
 
 <br />
 
-<p><img src="https://github.com/ShivamGoyal1899/ShivamGoyal1899/raw/master/assets/footer-bg.png" width="100%" />(https://aggarwalsejal.com/)</p>
+[<img src="https://github.com/ShivamGoyal1899/ShivamGoyal1899/raw/master/assets/footer-bg.png" width="100%" />](https://aggarwalsejal.com/)
 
 <!--
 **aggarwalsejal/aggarwalsejal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
