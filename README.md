@@ -1,4 +1,4 @@
-### 👋 Hello! I'm Sejal.
+### 👋 Hey! I'm Sejal.
 I'm a Software Engineer from :india: 
 
 :globe_with_meridians: [Check out my website](https://aggarwalsejal.com/)
