@@ -1,5 +1,5 @@
 ### 👋 Hey! I'm Sejal.
-I'm a Application Support Engineer :india: 
+I'm an Application Support Engineer :india: 
 
 :globe_with_meridians: [Check out my website](https://aggarwalsejal.com/)
 
